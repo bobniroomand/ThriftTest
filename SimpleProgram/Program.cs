@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Thrift;
 
 namespace SimpleProgram
 {
@@ -10,6 +11,7 @@ namespace SimpleProgram
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
