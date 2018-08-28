@@ -1,0 +1,8 @@
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftTest\SimpleProgram\obj\Debug\SimpleProgram.csprojResolveAssemblyReference.cache
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftTest\SimpleProgram\bin\Debug\SimpleProgram.exe.config
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftTest\SimpleProgram\bin\Debug\SimpleProgram.exe
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftTest\SimpleProgram\bin\Debug\SimpleProgram.pdb
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftTest\SimpleProgram\bin\Debug\Thrift.dll
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftTest\SimpleProgram\bin\Debug\Thrift.pdb
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftTest\SimpleProgram\obj\Debug\SimpleProgram.exe
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\ThriftTest\SimpleProgram\obj\Debug\SimpleProgram.pdb

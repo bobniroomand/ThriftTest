@@ -1,4 +1,4 @@
-﻿namespace csharp test
+namespace csharp test
 
 typedef i32 int
 service MultiplicationService
